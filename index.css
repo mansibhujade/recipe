@@ -1,0 +1,370 @@
+.just-for-you {
+  position: absolute;
+  top: 573px;
+  left: 77px;
+  font-family: var(--font-istok-web);
+}
+.home,
+.recipes {
+  position: absolute;
+  top: 127px;
+  left: 970px;
+}
+.recipes {
+  left: 1085px;
+  cursor: pointer;
+}
+.saved-recipes,
+.upload-recipe {
+  position: absolute;
+  top: 127px;
+  left: 1403px;
+}
+.upload-recipe {
+  left: 1204px;
+  cursor: pointer;
+}
+.mask-group-icon {
+  position: absolute;
+  top: 256px;
+  left: 360.5px;
+  width: 225.3px;
+  height: 224px;
+  object-fit: cover;
+}
+.mask-group-icon1,
+.mask-group-icon2,
+.mask-group-icon3,
+.mask-group-icon4 {
+  position: absolute;
+  top: 256px;
+  left: 621.1px;
+  width: 225.3px;
+  height: 224px;
+  object-fit: cover;
+}
+.mask-group-icon2,
+.mask-group-icon3,
+.mask-group-icon4 {
+  left: 881.6px;
+}
+.mask-group-icon3,
+.mask-group-icon4 {
+  left: 1142.1px;
+}
+.mask-group-icon4 {
+  left: 1402.7px;
+}
+.next-svgrepo-com-1-icon,
+.next-svgrepo-com-2-icon {
+  position: absolute;
+  top: 343px;
+  left: 1651px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.next-svgrepo-com-1-icon {
+  left: 27px;
+  width: 50.1px;
+  height: 50.1px;
+  object-fit: contain;
+}
+.flavor-fusion {
+  position: absolute;
+  top: 89px;
+  left: 288px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  display: inline-block;
+  width: 362px;
+  height: 41px;
+}
+.asian,
+.indian,
+.italic,
+.south-indian,
+.veg-food {
+  position: absolute;
+  top: 502px;
+  left: 970px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.asian,
+.italic,
+.south-indian,
+.veg-food {
+  left: 1204px;
+}
+.asian,
+.italic,
+.south-indian {
+  left: 672px;
+}
+.asian,
+.italic {
+  left: 1503px;
+}
+.asian {
+  left: 444px;
+}
+.mylogo-removebg-preview-1-icon {
+  position: absolute;
+  top: 42px;
+  left: 100px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 52px;
+  background-color: var(--color-rosybrown);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.sign-uplog-in {
+  position: absolute;
+  height: 41.07%;
+  width: 68.39%;
+  top: 30.36%;
+  left: 16.09%;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 62px;
+  left: 1523px;
+  width: 174px;
+  height: 56px;
+  font-size: var(--font-size-base);
+}
+.mask-group-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 225.3px;
+  height: 224px;
+  object-fit: cover;
+}
+.american {
+  position: absolute;
+  top: 246px;
+  left: 50px;
+  font-weight: 500;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 256px;
+  left: 100px;
+  width: 225.3px;
+  height: 276px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 195.5px);
+  border-radius: var(--br-73xl);
+  background-color: var(--color-gainsboro-100);
+  width: 391px;
+  height: 46px;
+}
+.search-your-recipes {
+  position: absolute;
+  top: 8.9px;
+  left: calc(50% - 104px);
+  display: inline-block;
+  width: 271.4px;
+  height: 29.1px;
+}
+.pan-svgrepo-com-1-icon {
+  position: absolute;
+  top: 9.7px;
+  left: 41.6px;
+  width: 32.2px;
+  height: 25px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-group {
+  position: absolute;
+  top: 551px;
+  left: calc(50% - 170px);
+  width: 391px;
+  height: 46px;
+  cursor: pointer;
+  color: var(--color-gray-200);
+}
+.img-1-child,
+.unsplash-srewpufo2c0-1-icon {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 374px;
+  height: 261px;
+}
+.unsplash-srewpufo2c0-1-icon {
+  top: 0;
+  object-fit: cover;
+}
+.img-1-child {
+  top: 257px;
+  background: linear-gradient(180deg, #dcc2a0, transparent);
+  border: 1px solid var(--color-aqua-100);
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor,
+.web-design {
+  position: absolute;
+  top: 351px;
+  left: 36px;
+  display: inline-block;
+  width: 302px;
+  height: 98px;
+}
+.web-design {
+  top: 306px;
+  left: 29px;
+  width: 317px;
+  height: 29px;
+}
+.img-1-item {
+  position: absolute;
+  top: 449px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 40px;
+  height: 40px;
+}
+.img-1,
+.vector-icon {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 7.66%;
+  width: 5.35%;
+  top: 176.63%;
+  right: 48.13%;
+  bottom: -84.29%;
+  left: 46.52%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.img-1 {
+  top: 675px;
+  left: 58px;
+  border-radius: var(--br-mini);
+  width: 374px;
+  height: 261px;
+  text-align: center;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.unsplash-fx34keqiew-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 376px;
+  height: 261px;
+  object-fit: cover;
+}
+.img-2-child {
+  position: absolute;
+  top: 257px;
+  left: 0;
+  background: linear-gradient(180deg, #dabd97, transparent);
+  border: 1px solid var(--color-aqua-100);
+  box-sizing: border-box;
+  width: 374px;
+  height: 261px;
+}
+.img-2,
+.img-2-child,
+.img-3-child {
+  border-radius: var(--br-mini);
+}
+.img-2 {
+  position: absolute;
+  top: 675px;
+  left: 475px;
+  width: 374px;
+  height: 261px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.img-3-child {
+  top: 257px;
+  left: 0;
+  background: linear-gradient(180deg, #baa07e, transparent);
+  border: 1px solid var(--color-aqua-100);
+  box-sizing: border-box;
+}
+.img-3,
+.img-3-child,
+.unsplash-lj9ky8pih3e-1-icon {
+  position: absolute;
+  width: 374px;
+  height: 261px;
+}
+.img-3 {
+  top: 675px;
+  left: 892px;
+  border-radius: var(--br-mini);
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.unsplash-lj9ky8pih3e-1-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.img-4,
+.img-4-child {
+  position: absolute;
+  border-radius: var(--br-mini);
+  width: 374px;
+  height: 261px;
+}
+.img-4-child {
+  top: 257px;
+  left: 0;
+  background: linear-gradient(180deg, #d8c48a, transparent);
+  border: 1px solid var(--color-aqua-100);
+  box-sizing: border-box;
+}
+.img-4 {
+  top: 675px;
+  left: 1309px;
+  overflow: hidden;
+  text-align: center;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.macbook-pro-16-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

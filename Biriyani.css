@@ -1,0 +1,440 @@
+.icons1 {
+  position: absolute;
+  top: 24px;
+  left: 37px;
+  width: 1653px;
+  height: 757px;
+}
+.hydrabadi-biriyani,
+.lorem-ipsum-dolor5 {
+  position: absolute;
+  top: 154px;
+  left: calc(50% - 215px);
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.lorem-ipsum-dolor5 {
+  top: 217px;
+  left: calc(50% - 378px);
+  font-size: var(--font-size-5xl);
+  text-align: justify;
+  display: inline-block;
+  width: 756px;
+}
+.nevigation1 {
+  position: absolute;
+  top: 952px;
+  left: 445px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 25px;
+  height: 25px;
+}
+.linked-ellipse-181 {
+  position: absolute;
+  top: 0;
+  left: 33.5px;
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani35,
+.copy-biriyani36,
+.copy-biriyani37,
+.copy-biriyani38 {
+  position: absolute;
+  top: 609.8px;
+  left: calc(50% - 441.55px);
+  font-weight: 500;
+  transform: rotate(-108deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani36,
+.copy-biriyani37,
+.copy-biriyani38 {
+  top: 589.4px;
+  left: calc(50% - 447.95px);
+  transform: rotate(-106.3deg);
+}
+.copy-biriyani37,
+.copy-biriyani38 {
+  top: 581.3px;
+  left: calc(50% - 450.35px);
+  transform: rotate(-105deg);
+}
+.copy-biriyani38 {
+  top: 566.8px;
+  left: calc(50% - 454.15px);
+  transform: rotate(-103.4deg);
+}
+.copy-biriyani39,
+.copy-biriyani40,
+.copy-biriyani41,
+.copy-biriyani42 {
+  position: absolute;
+  top: 557.9px;
+  left: calc(50% - 456.35px);
+  font-weight: 500;
+  transform: rotate(-101.7deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani40,
+.copy-biriyani41,
+.copy-biriyani42 {
+  top: 538px;
+  left: calc(50% - 460.45px);
+  transform: rotate(-99.3deg);
+}
+.copy-biriyani41,
+.copy-biriyani42 {
+  top: 518.2px;
+  left: calc(50% - 463.65px);
+  transform: rotate(-96.9deg);
+}
+.copy-biriyani42 {
+  top: 497.4px;
+  left: calc(50% - 466.05px);
+  transform: rotate(-95.1deg);
+}
+.biriyani2 {
+  position: absolute;
+  top: 427px;
+  left: 382.5px;
+  width: 933.5px;
+  height: 900px;
+  color: var(--color-black);
+}
+.linked-salad-ellips1 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 447.5px);
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani43 {
+  position: absolute;
+  top: 281px;
+  left: calc(50% - 452.5px);
+  font-weight: 500;
+  transform: rotate(-68.4deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani44,
+.copy-biriyani45,
+.copy-biriyani46,
+.copy-biriyani47 {
+  position: absolute;
+  top: 260px;
+  left: calc(50% - 444.1px);
+  font-weight: 500;
+  transform: rotate(-65.8deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani45,
+.copy-biriyani46,
+.copy-biriyani47 {
+  top: 242px;
+  left: calc(50% - 435.9px);
+  transform: rotate(-64.1deg);
+}
+.copy-biriyani46,
+.copy-biriyani47 {
+  top: 234.1px;
+  left: calc(50% - 432.2px);
+  transform: rotate(-62.4deg);
+}
+.copy-biriyani47 {
+  top: 216.1px;
+  left: calc(50% - 422.7px);
+  transform: rotate(-59.9deg);
+}
+.linked-ellipse-201,
+.salad2 {
+  position: absolute;
+  height: 900px;
+}
+.salad2 {
+  top: 427px;
+  left: calc(50% - 453px);
+  width: 905px;
+  cursor: pointer;
+}
+.linked-ellipse-201 {
+  top: 4.7px;
+  left: 0;
+  width: 900px;
+}
+.copy-biriyani48 {
+  position: absolute;
+  top: 41.6px;
+  left: calc(50% - 254.5px);
+  font-weight: 500;
+  transform: rotate(-31.6deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani49,
+.copy-biriyani50,
+.copy-biriyani51,
+.copy-biriyani52 {
+  position: absolute;
+  top: 29.7px;
+  left: calc(50% - 234.1px);
+  font-weight: 500;
+  transform: rotate(-28.9deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani50,
+.copy-biriyani51,
+.copy-biriyani52 {
+  top: 20.9px;
+  left: calc(50% - 217.3px);
+  transform: rotate(-26.6deg);
+}
+.copy-biriyani51,
+.copy-biriyani52 {
+  top: 12.2px;
+  left: calc(50% - 199.2px);
+  transform: rotate(-24.2deg);
+}
+.copy-biriyani52 {
+  top: 7.3px;
+  left: calc(50% - 187.9px);
+  transform: rotate(-22.7deg);
+}
+.linked-ellipse-231,
+.pasta1 {
+  position: absolute;
+  top: 422.3px;
+  left: 416px;
+  width: 900px;
+  height: 904.7px;
+}
+.linked-ellipse-231 {
+  top: 29px;
+  left: 0;
+  height: 900px;
+}
+.copy-biriyani53 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 78px);
+  font-weight: 500;
+  transform: rotate(10.6deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani54,
+.copy-biriyani55,
+.copy-biriyani56,
+.copy-biriyani57 {
+  position: absolute;
+  top: 4.5px;
+  left: calc(50% + 101.5px);
+  font-weight: 500;
+  transform: rotate(12.5deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani55,
+.copy-biriyani56,
+.copy-biriyani57 {
+  top: 5.9px;
+  left: calc(50% + 108.1px);
+  transform: rotate(14.1deg);
+}
+.copy-biriyani56,
+.copy-biriyani57 {
+  top: 10.9px;
+  left: calc(50% + 128.2px);
+  transform: rotate(16.5deg);
+}
+.copy-biriyani57 {
+  top: 16.5px;
+  left: calc(50% + 147px);
+  transform: rotate(18.8deg);
+}
+.linked-chineese-icon1,
+.pizza1 {
+  position: absolute;
+  top: 398px;
+  left: 416px;
+  width: 900px;
+  height: 929px;
+}
+.linked-chineese-icon1 {
+  top: 0;
+  left: 0;
+  height: 900px;
+}
+.copy-biriyani58,
+.copy-biriyani59,
+.copy-biriyani60 {
+  position: absolute;
+  top: 131.7px;
+  left: calc(50% + 366.3px);
+  font-weight: 500;
+  transform: rotate(50.4deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani59,
+.copy-biriyani60 {
+  top: 150.8px;
+  left: calc(50% + 382px);
+  transform: rotate(53.1deg);
+}
+.copy-biriyani60 {
+  top: 166.7px;
+  left: calc(50% + 393.8px);
+  transform: rotate(54.8deg);
+}
+.copy-biriyani61,
+.copy-biriyani62,
+.copy-biriyani63,
+.copy-biriyani64 {
+  position: absolute;
+  top: 175.2px;
+  left: calc(50% + 400px);
+  font-weight: 500;
+  transform: rotate(56.7deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani62,
+.copy-biriyani63,
+.copy-biriyani64 {
+  top: 193.7px;
+  left: calc(50% + 412.1px);
+  transform: rotate(59.2deg);
+}
+.copy-biriyani63,
+.copy-biriyani64 {
+  top: 211px;
+  left: calc(50% + 422.3px);
+  transform: rotate(61.5deg);
+}
+.copy-biriyani64 {
+  top: 227.8px;
+  left: calc(50% + 431.4px);
+  transform: rotate(63.9deg);
+}
+.chinese1 {
+  position: absolute;
+  top: 427px;
+  left: 416px;
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani65 {
+  position: absolute;
+  top: 449.1px;
+  left: calc(50% + 467.6px);
+  font-weight: 500;
+  transform: rotate(91.1deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani66,
+.copy-biriyani67,
+.copy-biriyani68,
+.copy-biriyani69 {
+  position: absolute;
+  top: 472.3px;
+  left: calc(50% + 467.1px);
+  font-weight: 500;
+  transform: rotate(93.8deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani67,
+.copy-biriyani68,
+.copy-biriyani69 {
+  top: 493.3px;
+  left: calc(50% + 465.6px);
+  transform: rotate(95.5deg);
+}
+.copy-biriyani68,
+.copy-biriyani69 {
+  top: 502.6px;
+  left: calc(50% + 464.7px);
+  transform: rotate(96.6deg);
+}
+.copy-biriyani69 {
+  top: 510.7px;
+  left: calc(50% + 463.8px);
+  transform: rotate(98.2deg);
+}
+.rolls1 {
+  position: absolute;
+  top: 427px;
+  left: 416px;
+  width: 935.2px;
+  height: 900px;
+}
+.backward-icon1,
+.forward-icon1 {
+  position: absolute;
+  top: 853px;
+  width: 100px;
+  height: 100px;
+}
+.backward-icon1 {
+  left: 155px;
+  cursor: pointer;
+}
+.forward-icon1 {
+  left: 1477px;
+}
+.biriyani-icon,
+.mylogo-removebg-preview-1-icon3 {
+  position: absolute;
+  top: 501px;
+  left: 389px;
+  width: 916.8px;
+  height: 968.2px;
+  object-fit: cover;
+}
+.mylogo-removebg-preview-1-icon3 {
+  top: 24px;
+  left: 112px;
+  width: 188px;
+  height: 171px;
+}
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 188px);
+  border-radius: var(--br-73xl);
+  background-color: var(--color-gainsboro-100);
+  width: 376px;
+  height: 57px;
+}
+.search-your-recipes2 {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 100px);
+}
+.pan-svgrepo-com-1-icon2 {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 188px);
+  width: 376px;
+  height: 57px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
+.biriyani1 {
+  width: 100%;
+  position: relative;
+  background-color: #07ff02;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

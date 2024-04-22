@@ -1,0 +1,292 @@
+.mylogo-removebg-preview-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 71px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.flavor-fusion3 {
+  position: absolute;
+  top: 47px;
+  left: 259px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  display: inline-block;
+  width: 362px;
+  height: 41px;
+}
+.home1,
+.upload-recipes {
+  position: absolute;
+  top: 70px;
+  left: 1016px;
+  cursor: pointer;
+}
+.upload-recipes {
+  left: 1142px;
+  display: inline-block;
+  width: 217px;
+}
+.log-out,
+.my-recipes {
+  position: absolute;
+  top: 70px;
+  left: 1359px;
+}
+.log-out {
+  left: 1530px;
+  display: inline-block;
+  width: 123px;
+  height: 36px;
+  cursor: pointer;
+}
+.macbook-pro-16-4-child {
+  position: absolute;
+  top: 159.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1729px;
+  height: 1px;
+}
+.uploaded-recipes,
+.your-top-rated {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.uploaded-recipes {
+  top: 180px;
+  left: 30px;
+  display: inline-block;
+  width: 340px;
+  height: 54px;
+}
+.your-top-rated {
+  top: 717px;
+  left: 50px;
+}
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-14xl);
+  background-color: var(--color-gainsboro-100);
+  width: 464px;
+  height: 189px;
+}
+.image-7-icon,
+.noodle {
+  position: absolute;
+  top: 5px;
+}
+.noodle {
+  left: 178px;
+  font-weight: 600;
+}
+.image-7-icon {
+  left: 6px;
+  border-radius: 81.5px;
+  width: 163px;
+  height: 168px;
+  object-fit: cover;
+}
+.group-child13,
+.star-icon {
+  position: absolute;
+  top: 36px;
+  left: 179px;
+  width: 22px;
+  height: 26px;
+}
+.group-child13 {
+  left: 204px;
+}
+.group-child14,
+.group-child15,
+.group-child16 {
+  position: absolute;
+  top: 37px;
+  left: 234px;
+  width: 22px;
+  height: 26px;
+}
+.group-child15,
+.group-child16 {
+  left: 264px;
+}
+.group-child16 {
+  top: 36px;
+  left: 292px;
+}
+.group-container,
+.minute-lo-mein {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 464px;
+  height: 189px;
+}
+.minute-lo-mein {
+  top: 61px;
+  left: 176px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 272px;
+  height: 103px;
+}
+.group-parent,
+.group-parent2 {
+  position: absolute;
+  top: 842px;
+  left: 65px;
+  width: 464px;
+  height: 189px;
+}
+.group-parent2 {
+  top: 3px;
+  left: 0;
+}
+.packed-with-tons {
+  margin: 0;
+}
+.packed-with-tons-container {
+  position: absolute;
+  top: 64px;
+  left: 176px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 272px;
+  height: 103px;
+}
+.instant-pot-mac {
+  position: absolute;
+  top: 8px;
+  left: 153px;
+  font-weight: 600;
+}
+.group-parent3 {
+  position: absolute;
+  top: 0;
+  left: 552px;
+  width: 464px;
+  height: 189px;
+  font-size: var(--font-size-xl);
+}
+.group-parent1,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 839px;
+  left: 624px;
+  width: 1016px;
+  height: 192px;
+}
+.image-8-icon,
+.image-9-icon {
+  top: 863px;
+  border-radius: 205px;
+  width: 157px;
+  height: 147px;
+  object-fit: cover;
+}
+.image-9-icon {
+  top: 856px;
+  left: 1196px;
+  border-radius: 160px;
+  width: 138px;
+  height: 154px;
+}
+.macbook-pro-16-4-item {
+  position: absolute;
+  top: 279px;
+  left: 44px;
+  border-radius: 50px;
+  background-color: var(--color-gainsboro-100);
+  width: 548px;
+  height: 421px;
+}
+.macbook-pro-16-4-child1,
+.macbook-pro-16-4-inner {
+  position: absolute;
+  top: 265px;
+  border-radius: var(--br-55xl);
+  width: 476px;
+  height: 68px;
+}
+.macbook-pro-16-4-inner {
+  left: 650px;
+  background-color: var(--color-gainsboro-200);
+}
+.macbook-pro-16-4-child1 {
+  left: 1213px;
+  background-color: rgba(217, 217, 217, 0.66);
+}
+.macbook-pro-16-4-child2,
+.macbook-pro-16-4-child3 {
+  position: absolute;
+  top: 371px;
+  border-radius: var(--br-55xl);
+  width: 476px;
+  height: 68px;
+}
+.macbook-pro-16-4-child2 {
+  left: 650px;
+  background-color: rgba(217, 217, 217, 0.68);
+}
+.macbook-pro-16-4-child3 {
+  left: 1213px;
+  background-color: var(--color-gainsboro-200);
+}
+.macbook-pro-16-4-child4 {
+  position: absolute;
+  top: 478px;
+  left: 661px;
+  border-radius: 51px;
+  background-color: var(--color-gainsboro-100);
+  width: 1008px;
+  height: 204px;
+}
+.description {
+  position: absolute;
+  top: 495px;
+  left: 704px;
+}
+.name-of-recipe,
+.types-of-recipes {
+  position: absolute;
+  top: 279px;
+  left: 686px;
+}
+.types-of-recipes {
+  left: 1246px;
+}
+.add-your-ingredients,
+.cooking-time {
+  position: absolute;
+  top: 388px;
+  left: 688px;
+}
+.cooking-time {
+  left: 1266px;
+}
+.wired-lineal-61-camera-2-icon {
+  position: absolute;
+  top: 390px;
+  left: 218px;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.macbook-pro-16-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

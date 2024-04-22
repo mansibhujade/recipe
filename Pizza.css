@@ -1,0 +1,440 @@
+.icons3 {
+  position: absolute;
+  top: 24px;
+  left: 37px;
+  width: 1653px;
+  height: 757px;
+}
+.lorem-ipsum-dolor7,
+.margarita-pizza {
+  position: absolute;
+  top: 154px;
+  left: calc(50% - 183px);
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.lorem-ipsum-dolor7 {
+  top: 217px;
+  left: calc(50% - 378px);
+  font-size: var(--font-size-5xl);
+  text-align: justify;
+  display: inline-block;
+  width: 756px;
+}
+.nevigation3 {
+  position: absolute;
+  top: 451px;
+  left: 954px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 25px;
+  height: 25px;
+}
+.linked-ellipse-183 {
+  position: absolute;
+  top: 0;
+  left: 33.5px;
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani105,
+.copy-biriyani106,
+.copy-biriyani107,
+.copy-biriyani108 {
+  position: absolute;
+  top: 609.8px;
+  left: calc(50% - 441.55px);
+  font-weight: 500;
+  transform: rotate(-108deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani106,
+.copy-biriyani107,
+.copy-biriyani108 {
+  top: 589.4px;
+  left: calc(50% - 447.95px);
+  transform: rotate(-106.3deg);
+}
+.copy-biriyani107,
+.copy-biriyani108 {
+  top: 581.3px;
+  left: calc(50% - 450.35px);
+  transform: rotate(-105deg);
+}
+.copy-biriyani108 {
+  top: 566.8px;
+  left: calc(50% - 454.15px);
+  transform: rotate(-103.4deg);
+}
+.copy-biriyani109,
+.copy-biriyani110,
+.copy-biriyani111,
+.copy-biriyani112 {
+  position: absolute;
+  top: 557.9px;
+  left: calc(50% - 456.35px);
+  font-weight: 500;
+  transform: rotate(-101.7deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani110,
+.copy-biriyani111,
+.copy-biriyani112 {
+  top: 538px;
+  left: calc(50% - 460.45px);
+  transform: rotate(-99.3deg);
+}
+.copy-biriyani111,
+.copy-biriyani112 {
+  top: 518.2px;
+  left: calc(50% - 463.65px);
+  transform: rotate(-96.9deg);
+}
+.copy-biriyani112 {
+  top: 497.4px;
+  left: calc(50% - 466.05px);
+  transform: rotate(-95.1deg);
+}
+.biriyani4 {
+  position: absolute;
+  top: 427px;
+  left: 382.5px;
+  width: 933.5px;
+  height: 900px;
+}
+.linked-salad-ellips3 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 447.5px);
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani113 {
+  position: absolute;
+  top: 281px;
+  left: calc(50% - 452.5px);
+  font-weight: 500;
+  transform: rotate(-68.4deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani114,
+.copy-biriyani115,
+.copy-biriyani116,
+.copy-biriyani117 {
+  position: absolute;
+  top: 260px;
+  left: calc(50% - 444.1px);
+  font-weight: 500;
+  transform: rotate(-65.8deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani115,
+.copy-biriyani116,
+.copy-biriyani117 {
+  top: 242px;
+  left: calc(50% - 435.9px);
+  transform: rotate(-64.1deg);
+}
+.copy-biriyani116,
+.copy-biriyani117 {
+  top: 234.1px;
+  left: calc(50% - 432.2px);
+  transform: rotate(-62.4deg);
+}
+.copy-biriyani117 {
+  top: 216.1px;
+  left: calc(50% - 422.7px);
+  transform: rotate(-59.9deg);
+}
+.linked-ellipse-203,
+.salad4 {
+  position: absolute;
+  height: 900px;
+}
+.salad4 {
+  top: 427px;
+  left: calc(50% - 453px);
+  width: 905px;
+}
+.linked-ellipse-203 {
+  top: 4.7px;
+  left: 0;
+  width: 900px;
+}
+.copy-biriyani118 {
+  position: absolute;
+  top: 41.6px;
+  left: calc(50% - 254.5px);
+  font-weight: 500;
+  transform: rotate(-31.6deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani119,
+.copy-biriyani120,
+.copy-biriyani121,
+.copy-biriyani122 {
+  position: absolute;
+  top: 29.7px;
+  left: calc(50% - 234.1px);
+  font-weight: 500;
+  transform: rotate(-28.9deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani120,
+.copy-biriyani121,
+.copy-biriyani122 {
+  top: 20.9px;
+  left: calc(50% - 217.3px);
+  transform: rotate(-26.6deg);
+}
+.copy-biriyani121,
+.copy-biriyani122 {
+  top: 12.2px;
+  left: calc(50% - 199.2px);
+  transform: rotate(-24.2deg);
+}
+.copy-biriyani122 {
+  top: 7.3px;
+  left: calc(50% - 187.9px);
+  transform: rotate(-22.7deg);
+}
+.linked-ellipse-233,
+.pasta4 {
+  position: absolute;
+  top: 422.3px;
+  left: 416px;
+  width: 900px;
+  height: 904.7px;
+}
+.linked-ellipse-233 {
+  top: 29px;
+  left: 0;
+  height: 900px;
+}
+.copy-biriyani123 {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 78px);
+  font-weight: 500;
+  transform: rotate(10.6deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani124,
+.copy-biriyani125,
+.copy-biriyani126,
+.copy-biriyani127 {
+  position: absolute;
+  top: 4.5px;
+  left: calc(50% + 101.5px);
+  font-weight: 500;
+  transform: rotate(12.5deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani125,
+.copy-biriyani126,
+.copy-biriyani127 {
+  top: 5.9px;
+  left: calc(50% + 108.1px);
+  transform: rotate(14.1deg);
+}
+.copy-biriyani126,
+.copy-biriyani127 {
+  top: 10.9px;
+  left: calc(50% + 128.2px);
+  transform: rotate(16.5deg);
+}
+.copy-biriyani127 {
+  top: 16.5px;
+  left: calc(50% + 147px);
+  transform: rotate(18.8deg);
+}
+.pizza4 {
+  position: absolute;
+  top: 398px;
+  left: 416px;
+  width: 900px;
+  height: 929px;
+  color: var(--color-black);
+}
+.linked-chineese-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani128,
+.copy-biriyani129,
+.copy-biriyani130 {
+  position: absolute;
+  top: 131.7px;
+  left: calc(50% + 366.3px);
+  font-weight: 500;
+  transform: rotate(50.4deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani129,
+.copy-biriyani130 {
+  top: 150.8px;
+  left: calc(50% + 382px);
+  transform: rotate(53.1deg);
+}
+.copy-biriyani130 {
+  top: 166.7px;
+  left: calc(50% + 393.8px);
+  transform: rotate(54.8deg);
+}
+.copy-biriyani131,
+.copy-biriyani132,
+.copy-biriyani133,
+.copy-biriyani134 {
+  position: absolute;
+  top: 175.2px;
+  left: calc(50% + 400px);
+  font-weight: 500;
+  transform: rotate(56.7deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani132,
+.copy-biriyani133,
+.copy-biriyani134 {
+  top: 193.7px;
+  left: calc(50% + 412.1px);
+  transform: rotate(59.2deg);
+}
+.copy-biriyani133,
+.copy-biriyani134 {
+  top: 211px;
+  left: calc(50% + 422.3px);
+  transform: rotate(61.5deg);
+}
+.copy-biriyani134 {
+  top: 227.8px;
+  left: calc(50% + 431.4px);
+  transform: rotate(63.9deg);
+}
+.chinese3 {
+  position: absolute;
+  top: 427px;
+  left: 416px;
+  width: 900px;
+  height: 900px;
+}
+.copy-biriyani135 {
+  position: absolute;
+  top: 449.1px;
+  left: calc(50% + 467.6px);
+  font-weight: 500;
+  transform: rotate(91.1deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani136,
+.copy-biriyani137,
+.copy-biriyani138,
+.copy-biriyani139 {
+  position: absolute;
+  top: 472.3px;
+  left: calc(50% + 467.1px);
+  font-weight: 500;
+  transform: rotate(93.8deg);
+  transform-origin: 0 0;
+}
+.copy-biriyani137,
+.copy-biriyani138,
+.copy-biriyani139 {
+  top: 493.3px;
+  left: calc(50% + 465.6px);
+  transform: rotate(95.5deg);
+}
+.copy-biriyani138,
+.copy-biriyani139 {
+  top: 502.6px;
+  left: calc(50% + 464.7px);
+  transform: rotate(96.6deg);
+}
+.copy-biriyani139 {
+  top: 510.7px;
+  left: calc(50% + 463.8px);
+  transform: rotate(98.2deg);
+}
+.rolls3 {
+  position: absolute;
+  top: 427px;
+  left: 416px;
+  width: 935.2px;
+  height: 900px;
+}
+.backward-icon3,
+.forward-icon3,
+.pizza-icon {
+  position: absolute;
+  top: 853px;
+  left: 155px;
+  width: 100px;
+  height: 100px;
+}
+.forward-icon3,
+.pizza-icon {
+  left: 1477px;
+}
+.pizza-icon {
+  top: 465px;
+  left: 436px;
+  width: 860px;
+  height: 860px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 188px);
+  border-radius: var(--br-73xl);
+  background-color: var(--color-gainsboro-100);
+  width: 376px;
+  height: 57px;
+}
+.search-your-recipes4 {
+  position: absolute;
+  top: 11px;
+  left: calc(50% - 100px);
+}
+.pan-svgrepo-com-1-icon4 {
+  position: absolute;
+  top: 12px;
+  left: 40px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 60px;
+  left: calc(50% - 188px);
+  width: 376px;
+  height: 57px;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
+.mylogo-removebg-preview-4-icon {
+  position: absolute;
+  top: 24px;
+  left: 110px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.pizza3 {
+  width: 100%;
+  position: relative;
+  background-color: #f2a4ff;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,222 @@
+.flavor-fusion2 {
+  position: absolute;
+  top: 119px;
+  left: 839px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  display: inline-block;
+  width: 362px;
+  height: 41px;
+}
+.mylogo-removebg-preview-1-icon2 {
+  position: absolute;
+  top: 54px;
+  left: 663px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.blank-line1 {
+  margin: 0;
+}
+.text1 {
+  position: absolute;
+  top: 379px;
+  left: 245px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.macbook-pro-16-3-child {
+  object-fit: cover;
+}
+.macbook-pro-16-3-child,
+.macbook-pro-16-3-item {
+  position: absolute;
+  top: 251px;
+  left: calc(50% - 708px);
+  width: 1417px;
+  height: 728px;
+}
+.sign-in2 {
+  position: absolute;
+  top: 288px;
+  left: 410px;
+  font-size: var(--font-size-29xl);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 752.8px;
+  height: 727.5px;
+  transform: rotate(-180deg);
+}
+.group-child2,
+.group-child3,
+.group-child4 {
+  position: absolute;
+  top: 196px;
+  left: 832.7px;
+  border-radius: var(--br-mini);
+  background-color: rgba(217, 217, 217, 0.62);
+  width: 499.1px;
+  height: 55.2px;
+}
+.group-child3,
+.group-child4 {
+  top: 280px;
+  background-color: rgba(217, 217, 217, 0.63);
+}
+.group-child4 {
+  top: 364px;
+  background-color: rgba(217, 217, 217, 0.61);
+}
+.create-account {
+  top: 92px;
+  left: 871.8px;
+  font-weight: 600;
+  width: 448.6px;
+}
+.create-account,
+.sign-in3,
+.welcome-back {
+  position: absolute;
+  display: inline-block;
+}
+.welcome-back {
+  top: 184px;
+  left: 192.8px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  width: 307.3px;
+  height: 53.2px;
+}
+.sign-in3 {
+  top: 7px;
+  left: 42.3px;
+  width: 82.5px;
+  -webkit-text-stroke: 2px #000;
+}
+.rectangle-parent1 {
+  position: absolute;
+  height: 7.01%;
+  width: 12.62%;
+  top: 51.82%;
+  right: 68.62%;
+  bottom: 41.17%;
+  left: 18.76%;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.already-have-acoount {
+  position: absolute;
+  top: 448px;
+  left: 973px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+  width: 198px;
+  cursor: pointer;
+}
+.vector-group {
+  position: absolute;
+  top: 978.5px;
+  left: 1487.8px;
+  width: 1331.8px;
+  height: 727.5px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  font-size: var(--font-size-29xl);
+}
+.enter-your-personal-container1 {
+  position: absolute;
+  top: 521px;
+  left: 245px;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.instance-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-rosybrown);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.sign-in4 {
+  position: absolute;
+  top: 13.73%;
+  left: 25.15%;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 740px;
+  left: 1141px;
+  width: 163px;
+  height: 51px;
+}
+.email1 {
+  position: absolute;
+  top: 541px;
+  left: 995px;
+  color: #0a0a0a;
+}
+.name,
+.password1 {
+  position: absolute;
+  top: 457px;
+  left: 992px;
+}
+.password1 {
+  top: 625px;
+  left: 1002px;
+}
+.github-142-svgrepo-com-2-icon {
+  position: absolute;
+  top: 811px;
+  left: 1236px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.facebook-color-svgrepo-com-3-icon,
+.google-color-svgrepo-com-2-icon,
+.vector-icon5 {
+  position: absolute;
+  top: 811px;
+  left: 1109px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.facebook-color-svgrepo-com-3-icon,
+.vector-icon5 {
+  left: 1176px;
+}
+.vector-icon5 {
+  height: 3.58%;
+  width: 2.31%;
+  top: 72.61%;
+  right: 22.69%;
+  bottom: 23.81%;
+  left: 75%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.macbook-pro-16-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
