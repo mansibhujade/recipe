@@ -1,0 +1,280 @@
+.macbook-pro-16-5-child {
+  position: absolute;
+  top: 179px;
+  left: 0;
+  box-shadow: 29px 4px 100px rgba(0, 0, 0, 0.25) inset;
+  background: linear-gradient(90deg, #faa, #966, #f3a2a2);
+  border: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1728px;
+  height: 323px;
+}
+.whats-for-dinner {
+  margin: 0;
+}
+.whats-for-dinner-container {
+  position: absolute;
+  top: 306px;
+  left: 420px;
+  font-size: var(--font-size-xl);
+}
+.image-10-icon {
+  position: absolute;
+  top: 193px;
+  left: 128px;
+  border-radius: 193px;
+  width: 225px;
+  height: 225px;
+  object-fit: cover;
+}
+.american-recipes {
+  position: absolute;
+  top: 216px;
+  left: 425px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-70xl);
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 344px;
+  height: 419px;
+}
+.image-11-icon {
+  position: absolute;
+  top: 34px;
+  left: calc(50% - 128px);
+  border-radius: var(--br-12xl);
+  width: 257px;
+  height: 235px;
+  object-fit: cover;
+}
+.review {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-icon,
+.review-parent {
+  position: absolute;
+  top: 2px;
+  left: 76px;
+  width: 134px;
+  height: 26px;
+}
+.review-parent {
+  top: 277px;
+  left: 67px;
+  width: 210px;
+  height: 30px;
+}
+.harissa-meatballs-with-container {
+  position: absolute;
+  top: 325px;
+  left: calc(50% - 116px);
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  text-align: center;
+  width: 232px;
+  height: 67px;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 647px;
+  left: 72px;
+  width: 344px;
+  height: 419px;
+  font-size: var(--font-size-xl);
+}
+.image-11-icon1 {
+  position: absolute;
+  top: 34px;
+  left: 44px;
+  border-radius: var(--br-12xl);
+  width: 257px;
+  height: 235px;
+  object-fit: cover;
+}
+.chicken-wontons-in {
+  position: absolute;
+  top: 325px;
+  left: calc(50% - 127px);
+  display: inline-block;
+  width: 254px;
+  height: 67px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 647px;
+  left: 479px;
+  width: 344px;
+  height: 419px;
+  text-align: center;
+}
+.image-11-icon2,
+.macbook-pro-16-5-item {
+  position: absolute;
+  top: 647px;
+  left: 886px;
+  border-radius: var(--br-70xl);
+  width: 353.6px;
+  height: 419px;
+}
+.image-11-icon2 {
+  top: 681px;
+  left: 931px;
+  border-radius: var(--br-12xl);
+  width: 264.1px;
+  height: 235px;
+  object-fit: cover;
+}
+.basic-awesome {
+  position: absolute;
+  top: 964px;
+  left: 928px;
+  display: inline-block;
+  text-align: center;
+  width: 269px;
+  height: 67px;
+}
+.group-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-70xl);
+  background-color: var(--color-gainsboro-100);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 353.6px;
+  height: 419px;
+}
+.image-11-icon3 {
+  position: absolute;
+  top: 34px;
+  left: 45px;
+  border-radius: var(--br-12xl);
+  width: 264.1px;
+  height: 235px;
+  object-fit: cover;
+}
+.portobello-french-dip {
+  position: absolute;
+  top: 325px;
+  left: calc(50% - 135.8px);
+  display: inline-block;
+  width: 272px;
+  height: 67px;
+}
+.macbook-pro-16-5-inner,
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 353.6px;
+  height: 419px;
+}
+.macbook-pro-16-5-inner {
+  top: 647px;
+  left: 1303px;
+  text-align: center;
+}
+.review-container,
+.review-group,
+.review-parent1 {
+  position: absolute;
+  top: 931px;
+  left: 546px;
+  width: 210px;
+  height: 30px;
+  font-size: var(--font-size-xl);
+}
+.review-container,
+.review-parent1 {
+  top: 929px;
+  left: 958px;
+}
+.review-parent1 {
+  left: 1375px;
+}
+.trophy-svgrepo-com-1-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 78px;
+  height: 69px;
+  overflow: hidden;
+}
+.top-rated-dinner {
+  position: absolute;
+  top: 8px;
+  left: 88px;
+}
+.trophy-svgrepo-com-1-1-parent {
+  position: absolute;
+  top: 542px;
+  left: 575px;
+  width: 579px;
+  height: 69px;
+  font-size: var(--font-size-17xl);
+}
+.home2,
+.recipes1 {
+  position: absolute;
+  top: 92px;
+  left: 1071px;
+}
+.recipes1 {
+  left: 1186px;
+  cursor: pointer;
+}
+.article,
+.flavor-fusion4,
+.saved-recipes1 {
+  position: absolute;
+  top: 92px;
+  left: 1446px;
+}
+.article,
+.flavor-fusion4 {
+  left: 1324px;
+}
+.flavor-fusion4 {
+  top: 69px;
+  left: 189px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  display: inline-block;
+  width: 362px;
+  height: 41px;
+}
+.mylogo-removebg-preview-1-icon5 {
+  position: absolute;
+  top: 8px;
+  left: 26px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.red-curry-chicken-container {
+  position: absolute;
+  top: 446px;
+  left: 127px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.macbook-pro-16-5 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1137px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

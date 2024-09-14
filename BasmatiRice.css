@@ -1,0 +1,9 @@
+.basmati-rice {
+  width: 152px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}

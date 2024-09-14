@@ -1,0 +1,136 @@
+.mylogo-removebg-preview-1-icon6 {
+  position: absolute;
+  top: 17px;
+  left: 26px;
+  width: 225px;
+  height: 189px;
+  object-fit: cover;
+}
+.flavor-fusion5,
+.saved-recipes2 {
+  position: absolute;
+  top: 85px;
+  left: 1483px;
+  display: inline-block;
+  width: 208px;
+  height: 37px;
+}
+.flavor-fusion5 {
+  top: 69px;
+  left: 229px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  width: 433px;
+  height: 42px;
+}
+.home3 {
+  left: 1071px;
+  width: 82px;
+  height: 37px;
+}
+.home3,
+.recipes2,
+.your-recipes {
+  position: absolute;
+  top: 85px;
+  display: inline-block;
+}
+.recipes2 {
+  left: 1186px;
+  width: 109px;
+  height: 37px;
+  cursor: pointer;
+}
+.your-recipes {
+  left: 1296px;
+  width: 187px;
+  height: 42px;
+}
+.macbook-pro-16-6-child {
+  position: absolute;
+  top: 205.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1729px;
+  height: 1px;
+}
+.group-child35 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 195.5px);
+  border-radius: var(--br-73xl);
+  background-color: var(--color-gainsboro-100);
+  width: 391px;
+  height: 46px;
+}
+.search-your-recipes7 {
+  position: absolute;
+  top: 8.9px;
+  left: calc(50% - 104px);
+  display: inline-block;
+  width: 271.4px;
+  height: 29.1px;
+}
+.pan-svgrepo-com-1-icon7 {
+  position: absolute;
+  top: 9.7px;
+  left: 41.6px;
+  width: 32.2px;
+  height: 25px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 244px;
+  left: calc(50% - 195px);
+  width: 391px;
+  height: 46px;
+  cursor: pointer;
+  color: var(--color-gray-200);
+}
+.filter,
+.ingredients-,
+.types- {
+  position: absolute;
+  top: 335px;
+  left: 122px;
+}
+.ingredients-,
+.types- {
+  top: 371px;
+  font-weight: 600;
+}
+.ingredients- {
+  top: 601px;
+}
+.min-for-cooking,
+.min-for-cooking1 {
+  position: absolute;
+  top: 533px;
+  left: 122px;
+}
+.min-for-cooking1 {
+  left: 418px;
+}
+.min-for-cooking2,
+.min-for-cooking3 {
+  position: absolute;
+  top: 533px;
+  left: 708px;
+}
+.min-for-cooking3 {
+  left: 998px;
+}
+.macbook-pro-16-6 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

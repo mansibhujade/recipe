@@ -1,0 +1,193 @@
+.flavor-fusion1 {
+  position: absolute;
+  top: 96px;
+  left: 804px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-italianno);
+  display: inline-block;
+  width: 362px;
+  height: 41px;
+}
+.mylogo-removebg-preview-1-icon1 {
+  position: absolute;
+  top: 49px;
+  left: 616px;
+  width: 188px;
+  height: 171px;
+  object-fit: cover;
+}
+.blank-line {
+  margin: 0;
+}
+.text {
+  position: absolute;
+  top: 379px;
+  left: 245px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+}
+.macbook-pro-16-2-child {
+  position: absolute;
+  top: 251px;
+  left: calc(50% - 708px);
+  width: 1417px;
+  height: 728px;
+  object-fit: cover;
+}
+.macbook-pro-16-2-item {
+  position: absolute;
+  top: 249px;
+  left: calc(50% - 709px);
+  width: 1417px;
+  height: 731px;
+}
+.sign-in {
+  position: absolute;
+  top: 326px;
+  left: 365px;
+  font-size: var(--font-size-29xl);
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 613.4px;
+  width: 803.8px;
+  height: 730.5px;
+}
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 196px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro-100);
+  width: 532.1px;
+  height: 56px;
+}
+.rectangle-div {
+  top: 302px;
+}
+.email,
+.password,
+.welcome-to-flavor {
+  position: absolute;
+  top: 207px;
+  left: 25.3px;
+  display: inline-block;
+  width: 72.6px;
+}
+.password,
+.welcome-to-flavor {
+  top: 312px;
+  left: 15.4px;
+  width: 146.2px;
+}
+.welcome-to-flavor {
+  top: 165px;
+  left: 753px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  width: 600.2px;
+}
+.vector-parent {
+  position: absolute;
+  top: 251px;
+  left: 182px;
+  width: 1417.2px;
+  height: 730.5px;
+}
+.enter-your-personal-container {
+  position: absolute;
+  top: 492px;
+  left: 983px;
+  color: var(--color-gray-200);
+  text-align: center;
+}
+.sign-up {
+  position: absolute;
+  top: 7px;
+  left: 41px;
+}
+.rectangle-container {
+  position: absolute;
+  height: 4.57%;
+  width: 9.43%;
+  top: 52.28%;
+  right: 23.44%;
+  bottom: 43.15%;
+  left: 67.13%;
+  cursor: pointer;
+}
+.forget-your-password {
+  position: absolute;
+  top: 631px;
+  left: 182px;
+}
+.github-142-svgrepo-com-1-icon,
+.vector-icon4 {
+  position: absolute;
+  top: 774px;
+  left: 357px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.vector-icon4 {
+  height: 3.58%;
+  width: 2.31%;
+  top: 69.29%;
+  right: 73.55%;
+  bottom: 27.13%;
+  left: 24.13%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.instance-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-17xl);
+  background-color: var(--color-rosybrown);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.group-div,
+.sign-in1 {
+  position: absolute;
+  top: 13.73%;
+  left: 25.15%;
+}
+.group-div {
+  top: 695px;
+  left: 239px;
+  width: 163px;
+  height: 51px;
+}
+.facebook-color-svgrepo-com-2-icon,
+.google-color-svgrepo-com-1-icon {
+  position: absolute;
+  top: 774px;
+  left: 230px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.facebook-color-svgrepo-com-2-icon {
+  left: 297px;
+}
+.macbook-pro-16-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
